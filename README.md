@@ -1,8 +1,9 @@
 # AutoEmail
 Automatically send the same email to thousands of recipients using a text file or an excel file
 
-Requirements:
-1) Go to https://developers.google.com/gmail/api/quickstart/python and complete step 1 and step 2. Save and name the .json file from step 2
+Instructions:
+1) Go to https://developers.google.com/gmail/api/quickstart/python and complete step 1 and step 2. 
+    Save and name the .json file from step 2
 2)  .json file should be in the same folder as 'gmailAPI.py' and 'sendEmail.py'
 3) in the terminal type 'pip install xlrd' if you wish to use an excel sheet
 4) run 'sendEmail.py'
